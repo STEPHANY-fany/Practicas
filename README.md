@@ -34,7 +34,7 @@ El objetivo principal del proyecto es facilitar la exploración visual de relaci
 
 ### Código agregado al archivo HTML
 
-La siguiente sección debe agregarse **antes de la etiqueta `<body>`** en el archivo HTML del grafo:
+La siguiente sección debe agregarse **antes de la etiqueta `<body>`** en el archivo HTML del grafo para agregar el buscador:
 
 ```html
 <div style="position: fixed; top: 15px; left: 15px; z-index: 999;">
